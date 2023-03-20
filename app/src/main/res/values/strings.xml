@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">teste</string>
     <string name="button_name">Calcular</string>
+    <string name="first_question">Qual o nome do Professor que leciona a máteria de  Programação para Dispositivos Móveis?</string>
+    <string name="first_response">Rafael Moreno</string>
+    <string name="first_response2">Daniel Ohata</string>
+    <string name="first_response3">Luciano Freire</string>
+    <string name="first_response4">Eliney Sabino</string>
+    <string name="first_response5">Willian Marchioli</string>
+    <string name="second_question">Calcular</string>
 </resources>
